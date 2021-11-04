@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Money
+  - Bomb
+  - Background
+  - Ground
+  - top of game
+  - bottom of game
   layers:
   - Default
   - TransparentFX
